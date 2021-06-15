@@ -1,0 +1,35 @@
+.jumbotron {
+  background: #171a1d;
+  padding: 150px 10px;
+  text-align: center;
+  height: 600px;
+  color: #fff;
+}
+
+#servicos {
+  padding: 30px;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+#locais {
+  padding-bottom: 20px;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-instagram-square {
+  color: #e1306c;
+}
+
+.fa-linkedin {
+  color: #0e76a8;
+}
+
+.fa-twitter-square {
+  color: #1da1f2;
+}
